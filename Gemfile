@@ -74,7 +74,7 @@ gem "authentication-zero", "~> 4.0"
 
 gem "pundit", "~> 2.4"
 
-gem "view_component", "~> 3.20"
+gem "view_component", "~> 3.21"
 gem "view_component-contrib", "~> 0.2.3"
 
 # Dry Initializer [https://github.com/dry-rb]
