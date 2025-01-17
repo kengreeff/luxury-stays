@@ -124,7 +124,7 @@ GEM
     dockerfile-rails (1.7.2)
       rails (>= 3.0.0)
     drb (2.2.1)
-    dry-initializer (3.1.1)
+    dry-initializer (3.2.0)
     erubi (1.13.0)
     ffi (1.17.0-aarch64-linux-gnu)
     ffi (1.17.0-arm64-darwin)
@@ -342,7 +342,7 @@ DEPENDENCIES
   cssbundling-rails
   debug
   dockerfile-rails (>= 1.7)
-  dry-initializer (~> 3.1)
+  dry-initializer (~> 3.2)
   image_processing (~> 1.2)
   jbuilder
   jsbundling-rails
