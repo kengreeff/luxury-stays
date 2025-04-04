@@ -78,7 +78,7 @@ gem "view_component", "~> 3.20"
 gem "view_component-contrib", "~> 0.2.3"
 
 # Dry Initializer [https://github.com/dry-rb]
-gem "dry-initializer", "~> 3.1"
+gem "dry-initializer", "~> 3.2"
 gem "pg_search", "~> 2.3"
 
 gem "dockerfile-rails", ">= 1.7", group: :development
